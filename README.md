@@ -46,6 +46,6 @@ Você pode usar, modificar e compartilhar sem restrições, de acordo com a lice
 
 ## ✨ Créditos
 Desenvolvido como parte do projeto:  
-**“Experiências de Ensino-Aprendizagem com Alunos Surdos e Formação de Professores”**  
+**“BARALHO ‘LITTERA’: RECURSO PARA O LETRAMENTO DE ALUNOS SURDOS A PARTIR DA REALIDADE AUMENTADA E COM PRINCÍPIOS DA GAMIFICAÇÃO”**  
 
 ---
